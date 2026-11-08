@@ -36,4 +36,4 @@ Se você já baixou esta pasta:
 
 ## Outro sistema operacional e outra ferramenta
 
-As seções "Outro sistema operacional" e "Outra ferramenta (Codex e outras)" do `SKILL.md` dizem à IA o que adaptar. Feita e testada no Claude Code em macOS. **Não foi testada no Codex** nem no Windows e Linux: a IA da pessoa adapta ao instalar e conta o que funcionou.
+Funciona em Mac, Windows e Linux, no Claude Code e no Codex. Na instalação, a própria IA faz as adaptações necessárias para o seu computador.
